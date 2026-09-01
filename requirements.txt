@@ -13,7 +13,6 @@ torch>=1.13.0
 # For GPU (CUDA 11.7 or higher) uncomment the line below and comment the CPU line:
 # torch>=1.13.0+cu117 --index-url https://download.pytorch.org/whl/cu117
 
-# Optional but recommended
 jupyter>=1.0.0
 tqdm>=4.64.0
 tabulate>=0.9.0
